@@ -1,0 +1,12 @@
+com.example.rating_film.app-jetified-window-1.0.0-beta04-0 C:\Users\ASUS\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\res
+com.example.rating_film.app-jetified-annotation-experimental-1.1.0-1 C:\Users\ASUS\.gradle\caches\transforms-3\6c0c163cc77ae6c91f9f7dfcd179c29c\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.rating_film.app-core-1.6.0-2 C:\Users\ASUS\.gradle\caches\transforms-3\7e9df2ac2213a6bd3cef0f2f27870d79\transformed\core-1.6.0\res
+com.example.rating_film.app-jetified-window-java-1.0.0-beta04-3 C:\Users\ASUS\.gradle\caches\transforms-3\ae81e06d24c799147c26814497a2a305\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.rating_film.app-debug-4 E:\KULIAH\SEMESTER 5\MOBILE\rating_film_app\rating_film\android\app\src\debug\res
+com.example.rating_film.app-main-5 E:\KULIAH\SEMESTER 5\MOBILE\rating_film_app\rating_film\android\app\src\main\res
+com.example.rating_film.app-pngs-6 E:\KULIAH\SEMESTER 5\MOBILE\rating_film_app\rating_film\build\app\generated\res\pngs\debug
+com.example.rating_film.app-resValues-7 E:\KULIAH\SEMESTER 5\MOBILE\rating_film_app\rating_film\build\app\generated\res\resValues\debug
+com.example.rating_film.app-rs-8 E:\KULIAH\SEMESTER 5\MOBILE\rating_film_app\rating_film\build\app\generated\res\rs\debug
+com.example.rating_film.app-mergeDebugResources-9 E:\KULIAH\SEMESTER 5\MOBILE\rating_film_app\rating_film\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.rating_film.app-mergeDebugResources-10 E:\KULIAH\SEMESTER 5\MOBILE\rating_film_app\rating_film\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.rating_film.app-merged_res-11 E:\KULIAH\SEMESTER 5\MOBILE\rating_film_app\rating_film\build\app\intermediates\merged_res\debug

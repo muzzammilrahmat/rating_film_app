@@ -1,0 +1,4 @@
+#Thu Oct 19 19:47:59 WIB 2023
+base.0=E\:\\KULIAH\\SEMESTER 5\\MOBILE\\rating_film_app\\rating_film\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
