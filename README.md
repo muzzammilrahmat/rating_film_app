@@ -11,9 +11,10 @@ Terlihat dari gambar di atas bahwa pada bagian models terdapat 1 file dengan nam
 
 pada file ini, terdapat class DataFilm yang berisikan id, name, genre, describe, dan avatar.
 
-
-## Lib/list_page.dart
+# Lib/list_page.dart
 File "list_page.dart" ini bertindak sebagai halaman utama atau home page dalam aplikasi ini. Halaman ini mencakup header, bilah pencarian, kategori/genre, serta daftar film populer dan terbaru. Anda bisa melihat tampilannya pada gambar di bawah ini:
+
+## Getting Started
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
