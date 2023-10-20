@@ -3,12 +3,17 @@ Program yang menampilkan review film yang disertai rating dari setiap film yang 
 
 ![image](https://github.com/muzzammilrahmat/rating_film_app/assets/148456233/2d5a9527-5490-4c98-934e-68788ac70bb6)
 
-# Models
+# Models/data.dart
 
 Terlihat dari gambar di atas bahwa pada bagian models terdapat 1 file dengan nama "data.dart" yang digunakan untuk mengonversi data ke format Json
 
-## Getting Started
+![image](https://github.com/muzzammilrahmat/rating_film_app/assets/148456233/4f0f8ca5-cd33-4cfc-b686-be2e6c24f966)
 
+pada file ini, terdapat class DataFilm yang berisikan id, name, genre, describe, dan avatar.
+
+
+## Lib/list_page.dart
+File "list_page.dart" ini bertindak sebagai halaman utama atau home page dalam aplikasi ini. Halaman ini mencakup header, bilah pencarian, kategori/genre, serta daftar film populer dan terbaru. Anda bisa melihat tampilannya pada gambar di bawah ini:
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
