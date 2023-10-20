@@ -14,6 +14,36 @@ pada file ini, terdapat class DataFilm yang berisikan id, name, genre, describe,
 # Lib/list_page.dart
 File "list_page.dart" ini bertindak sebagai halaman utama atau home page dalam aplikasi ini. Halaman ini mencakup header, bilah pencarian, kategori/genre, serta daftar film populer dan terbaru. Anda bisa melihat tampilannya pada gambar di bawah ini:
 
+![image](https://github.com/muzzammilrahmat/rating_film_app/assets/148456233/950da7b1-8087-455d-b523-aedaa923f662)
+
+
+# Lib/genre_page.dart
+Pada file "genre_page.dart," digunakan untuk menampilkan kategori/genre yang sesuai dengan pilihan dari kolom genre pada halaman list di atas. Informasi lebih rinci dapat ditemukan dalam gambar di bawah ini:
+
+![image](https://github.com/muzzammilrahmat/rating_film_app/assets/148456233/89faceb9-5663-4b54-aa89-8495cda7aff7)
+
+# Lib/desc_page.dart
+File "desc_page.dart" berfungsi untuk menampilkan halaman detail dengan gambar, genre, rating bar, dan deskripsi. Selain itu, terdapat ikon app bar untuk kembali ke halaman utama. Tampilan yang dimaksud adalah sebagai berikut:
+
+![image](https://github.com/muzzammilrahmat/rating_film_app/assets/148456233/4be57e5e-0f02-407a-8aec-e19e2f82b2ff)
+
+# Lib/user.dart
+File "user.dart" digunakan untuk menyimpan semua data film yang akan diambil dan digunakan dalam program ini.
+
+![image](https://github.com/muzzammilrahmat/rating_film_app/assets/148456233/1652c049-02d0-4c11-8e45-cdc4d34c8981)
+
+# rating_film
+a new flatter project
+
+
+
+
+
+
+
+
+
+
 ## Getting Started
 This project is a starting point for a Flutter application.
 
