@@ -1,8 +1,7 @@
-# Ammil 
-Jelek
+# Rating Film App 
+Program yang menampilkan review film yang disertai rating dari setiap film yang ada, agar memudahkan user/pengguna untuk memilih film mana yang ingin dia tonton. Agar mudah dipahami, program ini dibuat menjadi 6 file yang digabung dalam 1 folder lib. Dan terdapat 1 folder "models" yang berisikan file ""berada didalam folder lib. Seperti pada gambar dibawah.
 
-![Uploading SERTIFIKAT MUZZAMMIL.jpg…]()
-
+![image](https://github.com/muzzammilrahmat/rating_film_app/assets/148456233/2d5a9527-5490-4c98-934e-68788ac70bb6)
 
 # rating_film
 
