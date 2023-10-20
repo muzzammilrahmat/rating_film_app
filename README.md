@@ -3,9 +3,9 @@ Program yang menampilkan review film yang disertai rating dari setiap film yang 
 
 ![image](https://github.com/muzzammilrahmat/rating_film_app/assets/148456233/2d5a9527-5490-4c98-934e-68788ac70bb6)
 
-# rating_film
+# Models
 
-A new Flutter project.
+Terlihat dari gambar di atas bahwa pada bagian models terdapat 1 file dengan nama "data.dart" yang digunakan untuk mengonversi data ke format Json
 
 ## Getting Started
 
